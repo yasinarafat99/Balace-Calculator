@@ -1,4 +1,4 @@
-const Title = () => {
+export const Title = () => {
     return (
       <>
         <h2>
@@ -8,4 +8,3 @@ const Title = () => {
     )
   }
   
-  export default Title;
