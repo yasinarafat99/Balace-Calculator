@@ -8,7 +8,7 @@ import Title from "./component/title";
 function App() {
   return (
     <div>
-      <Title />
+      {/* <Title /> */}
       <div className="container">
         <Balance />
         <IncomeExpense />

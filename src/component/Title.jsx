@@ -1,10 +1,11 @@
-
 const Title = () => {
     return (
-      <h2>
+      <>
+        <h2>
         Balance Calculator
       </h2>
+      </>
     )
   }
   
-  export default Title
+  export default Title;
